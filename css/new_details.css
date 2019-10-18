@@ -1,0 +1,103 @@
+
+.content{
+	width:1200px;
+	margin:0 auto;
+	overflow: hidden;
+}
+
+.content .main{
+	width:970px;
+	float: right;
+}
+
+.content .container h2{
+	font-size:18px;
+	color: #6b412a;
+	float: left;
+}
+
+.content .container li{
+	float: left;
+	font-size:12px;
+	color:#3d3d3d;
+}
+
+.content .container>ul>li:first-child{
+	padding-left: 45px;
+	background: url(../img/pr-po-li-bg.png) 11px 0px no-repeat;
+}
+
+.content .container ul{
+	float: right;
+}
+
+.content .container li a{
+	font-size:12px;
+	color:#3d3d3d;
+}
+
+.content .container{
+	padding-bottom: 75px;
+	margin-top: 80px;
+	background: url(../img/co-ti-li-bg.png) 1px 30px no-repeat;
+}
+
+.content .sidebar>ul{
+	padding-bottom: 30px;
+}
+
+.content .sidebar>h2{
+	padding-top: 40px;
+}
+
+.content .container+div{
+	width:950px;
+	float: right;
+	
+}
+
+.content .container+div h2{
+	text-align: center;
+	color:#585858;
+	font-size:22px;
+	padding-bottom: 25px;
+}
+
+.content .container+div img{
+	float: left;
+	padding-right: 20px;
+}
+
+.content .container+div p{
+	font-size:12px;
+	color:#585858;
+	line-height: 23px;
+    letter-spacing: 10px;
+    text-indent: 3em;
+    text-align: justify;
+}
+
+.content .flip{
+	padding-top: 18px;
+	padding-bottom: 35px;
+	width:950px;
+	float: right;
+}
+
+.content .flip .prev{
+	font-size:12px;
+	color:#585858;
+	float: left;
+	padding-left: 10px;
+}
+
+.content .flip .next{
+	float: right;
+	font-size:12px;
+	color:#585858;
+	padding-right: 30px;
+}
+
+.content .flip a:hover{
+	color:#6b412a;
+}

@@ -1,0 +1,189 @@
+
+
+.content{
+	width:1200px;
+	margin:0 auto;
+	overflow: hidden;
+	padding-bottom: 50px;
+}
+
+.content>.top{
+	overflow: hidden;
+	background: url(../img/co-co-to-h2bg.png) 96px 38px no-repeat;
+}
+
+.content .top{
+	padding-top: 12px;
+    padding-bottom: 20px;
+}
+
+.content .top h2{
+	font-size:18px;
+	color: #6b412a;
+	float: left;
+	padding-left: 15px;
+	margin-top: -5px;
+}
+
+.content  .top li{
+	float: left;
+	font-size:12px;
+	color:#3d3d3d;
+}
+
+.content .top .current{
+	background: url(../img/pr-po-li-bg.png) 11px 0px no-repeat;
+	padding-left: 45px;
+}
+
+.content .top ul{
+	padding-right: 15px;
+	float: right;
+    width: 186px;
+}
+
+.content  .top li a{
+	font-size:12px;
+	color:#3d3d3d;
+}
+
+.content .main{
+	width:1180px;
+	margin:0 auto;
+	overflow: hidden;
+	padding-bottom: 25px;
+	margin-top: -20px;
+}
+
+.content .main .info{
+	background: url(../img/co-co-ma-bg.png) 5px 43px no-repeat;
+	padding-top: 70px;
+    padding-left: 100px;
+    width:472px;
+	float: left;
+	padding-bottom: 60px;
+}
+
+.content .main .forms{
+	background: url(../img/co-co-ma-bg.png) 0px 43px no-repeat;
+	float:right;
+	width:575px;
+	padding-top: 50px;
+	padding-bottom: 40px;
+}
+
+.content .main .info dt{
+	font-size:16px;
+	color:#6d422b;
+	letter-spacing: 8px;
+    padding-bottom: 25px;
+    padding-top: 30px;
+}
+
+.content .main .info dd{
+	font-size:12px;
+	color:#3d3d3d;
+	padding-bottom: 20px;
+	letter-spacing:5px;
+	padding-left: 40px;
+}
+
+.content .main .info span{
+	font-size:12px;
+	color:#3d3d3d;
+	float:right;
+	width: 330px;
+    letter-spacing: 2px;
+}
+
+.content .main .info .contact{
+	overflow: hidden;
+	padding-bottom: 32px;
+}
+
+.content .main .info .mailbox{
+	overflow: hidden;
+	padding-bottom: 20px;
+}
+
+.content .main .forms form{
+	width:390px;
+	margin: 0 auto;
+}
+
+ 
+.content .main .forms a{
+	padding-left: 17px;
+    letter-spacing: 2px;
+    font-size: 12px;
+    color: #000000;
+    background: url(../img/co-ma-fo-abg2.png) 1px 1px no-repeat;
+    padding-right: 65px;
+    margin-left: 75px;
+}
+
+.content .main .forms .current{
+	color:#7e6b61;
+	background:url(../img/co-ma-fo-agb.png) 1px 1px no-repeat;
+}
+
+.content .main .forms a:hover{
+	color:#7e6b61;
+	background:url(../img/co-ma-fo-agb.png) 1px 1px no-repeat;
+}
+
+.content .main .forms h2{
+	text-align: center;
+	padding-bottom: 5px;
+}
+
+.content .main .forms textarea,.content .main .forms>form>input{
+	width:365px;
+	height:30px;
+	margin-top: 10px;
+	background: #ebebeb;
+	padding-left: 5px;
+	letter-spacing: 2px;
+	color:#6d6d6d;
+	border: 1px solid #a8a8a8;
+	line-height: 30px;
+}
+
+.content .main .forms textarea{
+	height:220px;
+	resize: none;
+}
+
+.content .main .forms .sub,.content .main .forms .res{
+	width:110px;
+	height:30px;	
+	border: none;
+	background: none;
+	color:#fff;
+	padding-right: 40px;
+	margin-left: 10px;
+	outline:none;
+	background: url(../img/co-ma-res-bg.png) 1px 1px no-repeat;
+}
+
+.content .main .forms div .sub:hover{
+	background: url(../img/maobi.png) 1px 1px no-repeat;
+	cursor:pointer;
+}
+
+.content .main .forms div .res:hover{
+	background: url(../img/maobi.png) 1px 1px no-repeat;	
+	cursor:pointer;
+}
+
+.content .main .forms div{
+	text-align: center;
+	margin-top: 10px;
+}
+
+#map{
+	width:1200px;
+	height:600px;
+	margin: 0 auto;
+}
+

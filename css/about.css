@@ -1,0 +1,214 @@
+
+.content{
+	width:1200px;
+	margin:0 auto;
+	position: relative;
+	background: url(../img/co-ti-bg.png) 15px 150px no-repeat;
+}
+
+.content>.title{
+	width:1200px;
+	margin: 0 auto;
+	text-align: center;
+	background: url(../img/co-h2-bg.png) 450px 0px no-repeat;
+}
+
+.content>.title>h2{
+	padding-bottom: 65px;
+    padding-top: 69px;
+    color: #131313;
+    font-size: 24px;
+    background: url(../img/co-ti-h2.png) 539px 56px no-repeat;	
+}
+
+.content .main{
+	margin-top:45px;
+	width:1112px;
+	margin-left: 44px;
+	overflow: hidden;
+	position: relative;
+	padding-bottom: 65px;
+}
+
+
+
+.content .main>ul{
+	width:1070px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.content .main>ul li{
+	float:right;
+	width:905px;
+	padding-bottom: 32px;
+}
+
+.content .main>ul h2{
+	font-size:26px;
+	color:#272727;
+	width:40px;
+	float:left;
+	background: url(../img/co-ma-h2bg.png) 35px 7px no-repeat;
+}
+
+.content .main>ul>li>div{
+	float:right;
+	width:800px;
+	font-size: 12px;
+    color: #3c3b3b;
+    letter-spacing: 8px;
+    line-height: 24px;
+}
+
+.content .main>ul>li>div>div>div{
+	float: left;
+	margin-right:50px;
+	
+}
+.content .main>ul>li>div>div{
+	width:9999px;
+	overflow: hidden;
+	position: absolute;
+	left:0;
+	top:0;
+}
+
+.content .main ul li:first-child +li{
+	float:left;
+}
+
+.content .main ul li:first-child +li h2{
+	float:right;
+}
+
+.content .main ul li:first-child +li div{
+	float:left;
+}
+
+.content .main ul li:first-child +li+li+li{
+	float:left;
+	position:relative;
+}
+.content .main ul li:first-child +li+li+li>div{
+	overflow: hidden;
+	width:750px;
+}
+.content .main ul li:first-child +li+li+li h2{
+	float:right;
+}
+
+.content .main ul li:first-child +li+li+li div{
+	float:left;
+	position: relative;
+}
+
+.content .main .next{
+	background: url(../img/ne-ma-pr.png) 1px 1px no-repeat;
+	width:25px;
+	height: 28px;
+	float: left;
+	position: absolute;
+    bottom: 35px;
+    right:115px;
+}
+
+.content .main .next:hover{
+	background: url(../img/hove-bg.png) 1px 1px no-repeat;
+	
+}
+
+.content .main .prev{
+	background: url(../img/ne-ma-pr-bg.png) 1px 1px no-repeat;
+	width:32px;
+	height: 28px;
+	float: right;
+	position: absolute;
+    bottom: 35px;
+    right:75px;
+}
+
+.content .main .prev:hover{
+	background: url(../img/ne-ma-te.png) 1px 1px no-repeat;
+	
+}
+
+
+.main h4{
+	background: #d7d7d7 url(../img/co-h2bg.png) 0px 0px no-repeat;
+	line-height: 21px;
+	text-align: center;
+}
+
+.content>.bg-tl{
+	position: absolute;
+	left: 15px;
+	top:150px;
+}
+
+.content>.bg-tr{
+	position: absolute;
+	right: 30px;
+	top:150px;
+}
+
+
+.content>.bg-bt{
+	position: absolute;
+	left: 15px;
+	bottom:49px;
+}
+
+.content>.bg-br{
+	position: absolute;
+	right: 30px;
+	bottom:49px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
